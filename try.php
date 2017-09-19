@@ -1,0 +1,6 @@
+# welcome
+<?
+echo "hg sdjhckh";
+
+
+?>
